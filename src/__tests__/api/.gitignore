@@ -1,0 +1,9 @@
+/node_modules
+/build
+
+## env files
+
+*.env
+
+## ignore request files
+/src/requests
