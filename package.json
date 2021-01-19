@@ -1,0 +1,11 @@
+{
+    "name": "starbrix-testing",
+    "version": "0.0.1",
+    "main": "index.js",
+    "repository": "https://github.com/Jaska-StarBrix/testing1.git",
+    "author": "Jaakko Heikkinen",
+    "license": "MIT",
+    "dependencies": {
+      "typescript": "^4.1.3"
+    }
+  }
