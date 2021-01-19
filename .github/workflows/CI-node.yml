@@ -35,7 +35,7 @@ jobs:
       - run: yarn test
 
       # Runs a single command using the runners shell
-      - name: Run a one-line script
+      - name: One-liner
         run: echo Hello, world!
 
       
